@@ -14,7 +14,7 @@ You must set up a publicly accessible blog and publish at least four blog posts 
 
 ## Blog Post Submission
 
-After writing your blog posts, you must submit URLs to them in the "Blog Post #X" assignments in the Milestones course. Your teacher will grade each blog post as Complete or Incomplete.
+After writing your blog posts, you must submit URLs to them in the "Blog Post" assignments. Your teacher will grade each blog post as Complete or Incomplete.
 
 ## Recommendations
 
