@@ -1,4 +1,4 @@
-# Blog Requirements & Submission
+# Blog Requirements & Submission (Campus)
 
 This lesson describes the Flatiron School blog requirements and submission process. These requirements are designed to give you the best opportunity to deepen your knowledge, practice communication skills, and showcase yourself to potential employers.
 
