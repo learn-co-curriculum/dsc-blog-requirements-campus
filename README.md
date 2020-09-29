@@ -4,7 +4,7 @@ This lesson describes the Flatiron School blog requirements and submission proce
 
 ## Blog Requirements
 
-You must set up a publicly accessible blog and publish at least four blog posts on it in order to graduate. Blog posts must be submitted on the following schedule unless your instructor says otherwise:
+You must set up a publicly accessible blog and publish at least four blog posts on it in order to graduate. Blog posts must be submitted on the following schedule:
 
 * Phase 1: One post
 * Phase 2: One post
